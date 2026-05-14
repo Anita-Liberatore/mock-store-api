@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Sneakers Urban Pro",
+    "category": "Footwear",
+    "price": 89.99,
+    "description": "Sneakers urbane leggere con suola in gomma antiscivolo e tomaia in mesh traspirante. Perfette per la città e il tempo libero.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+    "stock": 12,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Zaino Explorer 30L",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Zaino resistente all'acqua da 30 litri con scomparto laptop fino a 15\", imbottiture ergonomiche e tasca frontale organizer.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+    "stock": 8,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Felpa Oversize Minimal",
+    "category": "Clothing",
+    "price": 44.99,
+    "description": "Felpa in cotone organico 380g/m², taglio oversize con cappuccio doppio strato. Disponibile in tonalità neutre.",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80",
+    "stock": 20,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Cuffia Bluetooth Studio",
+    "category": "Electronics",
+    "price": 129.00,
+    "description": "Cuffia wireless over-ear con cancellazione attiva del rumore, 30h di autonomia e driver da 40mm per un suono cristallino.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+    "stock": 5,
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Borraccia Termica 500ml",
+    "category": "Accessories",
+    "price": 24.99,
+    "description": "Borraccia in acciaio inox a doppia parete. Mantiene le bevande calde 12h e fredde 24h. Design minimal con bocchino largo.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&q=80",
+    "stock": 30,
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "T-Shirt Essential Pack",
+    "category": "Clothing",
+    "price": 34.99,
+    "description": "Pack da 3 t-shirt in jersey di cotone pettinato 180g/m². Taglio classico senza cuciture laterali per massimo comfort.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&q=80",
+    "stock": 25,
+    "rating": 4.2
+  },
+  {
+    "id": 7,
+    "name": "Portafoglio Slim Leather",
+    "category": "Accessories",
+    "price": 39.99,
+    "description": "Portafoglio sottile in vera pelle vegetale con protezione RFID. 6 tasche per carte, 2 scomparti banconote.",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600&q=80",
+    "stock": 15,
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "Occhiali da Sole Retro",
+    "category": "Accessories",
+    "price": 49.99,
+    "description": "Occhiali con montatura in acetato leggero e lenti polarizzate UV400. Stile retrò rivisitato in chiave contemporanea.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80",
+    "stock": 18,
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "Giacca Softshell Trail",
+    "category": "Clothing",
+    "price": 119.00,
+    "description": "Giacca softshell 3 strati impermeabile e antivento con tecnologia DWR. Collo alto, tasche con zip e polsini regolabili.",
+    "image": "https://images.unsplash.com/photo-1548126032-079a0fb0099d?w=600&q=80",
+    "stock": 7,
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "name": "Smartwatch Fitness X1",
+    "category": "Electronics",
+    "price": 199.00,
+    "description": "Smartwatch con GPS integrato, monitoraggio continuo della frequenza cardiaca, 50+ modalità sport e 7 giorni di autonomia.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80",
+    "stock": 9,
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "Cap Logo Ricamato",
+    "category": "Accessories",
+    "price": 19.99,
+    "description": "Cappellino baseball in twill di cotone con logo ricamato frontale e chiusura posteriore regolabile in metallo.",
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=600&q=80",
+    "stock": 40,
+    "rating": 4.1
+  },
+  {
+    "id": 12,
+    "name": "Calzini Merino Sport",
+    "category": "Clothing",
+    "price": 14.99,
+    "description": "Pack da 3 paia di calzini in lana merino 70%. Regolazione termica naturale, anti-odore e zona ammortizzata sul tallone.",
+    "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=600&q=80",
+    "stock": 50,
+    "rating": 4.4
+  }
+]
