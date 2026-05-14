@@ -118,5 +118,1005 @@
     "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=600&q=80",
     "stock": 50,
     "rating": 4.4
+  },
+  {
+    "id": 13,
+    "name": "Running Shoes Pace 2.0",
+    "category": "Footwear",
+    "price": 109.99,
+    "description": "Scarpe da corsa con intersuola in schiuma reattiva e drop 8mm. Ideali per asfalto e percorsi misti fino a 10km.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=600&q=80",
+    "stock": 14,
+    "rating": 4.6
+  },
+  {
+    "id": 14,
+    "name": "Chelsea Boots in Pelle",
+    "category": "Footwear",
+    "price": 149.00,
+    "description": "Chelsea boots artigianali in pelle pieno fiore con elastico laterale e suola in cuoio naturale. Finitura cerata a mano.",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=600&q=80",
+    "stock": 6,
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "name": "Sandali Comfort Plus",
+    "category": "Footwear",
+    "price": 49.99,
+    "description": "Sandali con footbed anatomico in memory foam, cinturini regolabili e suola in EVA ultraleggera. Unisex.",
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=600&q=80",
+    "stock": 22,
+    "rating": 4.2
+  },
+  {
+    "id": 16,
+    "name": "Loafers Premium",
+    "category": "Footwear",
+    "price": 129.00,
+    "description": "Mocassini eleganti in nappa morbidissima con suola in gomma vulcanizzata. Dettaglio metallo dorato sul dorso.",
+    "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "stock": 10,
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "name": "Stivali da Trekking Alpine",
+    "category": "Footwear",
+    "price": 179.00,
+    "description": "Stivali da montagna impermeabili con membrana Gore-Tex, suola Vibram e protezione della caviglia rinforzata.",
+    "image": "https://images.unsplash.com/photo-1520219306100-ec4afb7f5cd4?w=600&q=80",
+    "stock": 8,
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "name": "Slip-On Canvas",
+    "category": "Footwear",
+    "price": 34.99,
+    "description": "Scarpe slip-on in tela di cotone con interno in spugna e suola in gomma flessibile. Stile casual senza lacci.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&q=80",
+    "stock": 35,
+    "rating": 4.0
+  },
+  {
+    "id": 19,
+    "name": "Scarpe da Ginnastica Retro",
+    "category": "Footwear",
+    "price": 79.99,
+    "description": "Sneaker ispirata agli anni '80 con tomaia in pelle scamosciata, striscia laterale a contrasto e soletta in gel.",
+    "image": "https://images.unsplash.com/photo-1556906781-9a412961a28c?w=600&q=80",
+    "stock": 16,
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "name": "Mules in Pelle Scamosciata",
+    "category": "Footwear",
+    "price": 69.99,
+    "description": "Mules aperte sul tallone in camoscio con tacco basso squadrato da 4cm. Eleganza senza sforzo.",
+    "image": "https://images.unsplash.com/photo-1596703263926-eb0762ee17e4?w=600&q=80",
+    "stock": 11,
+    "rating": 4.3
+  },
+  {
+    "id": 21,
+    "name": "Jeans Slim Tapered",
+    "category": "Clothing",
+    "price": 69.99,
+    "description": "Jeans in denim stretch 98% cotone, taglio slim con gamba affusolata. Trattamento stone-wash leggero.",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&q=80",
+    "stock": 30,
+    "rating": 4.4
+  },
+  {
+    "id": 22,
+    "name": "Camicia Oxford Button-Down",
+    "category": "Clothing",
+    "price": 54.99,
+    "description": "Camicia in popeline Oxford 100% cotone con collo button-down e tasca sul petto. Lavabile a 40°.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600&q=80",
+    "stock": 20,
+    "rating": 4.5
+  },
+  {
+    "id": 23,
+    "name": "Blazer Strutturato",
+    "category": "Clothing",
+    "price": 139.00,
+    "description": "Blazer monopetto in misto lana con spalle leggere e fodera in acetato. Adatto sia a look formali che casual.",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+    "stock": 9,
+    "rating": 4.7
+  },
+  {
+    "id": 24,
+    "name": "Pantaloni Chino Cargo",
+    "category": "Clothing",
+    "price": 59.99,
+    "description": "Chino cargo in gabardine di cotone con tasche laterali con patta. Taglio relaxed fit con coulisse in vita.",
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&q=80",
+    "stock": 18,
+    "rating": 4.3
+  },
+  {
+    "id": 25,
+    "name": "Maglione Collo Alto Lana",
+    "category": "Clothing",
+    "price": 89.99,
+    "description": "Maglione a collo alto in lana merino extrafine 18 micron. Lavorazione a costine, leggerissimo e caldo.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=600&q=80",
+    "stock": 14,
+    "rating": 4.8
+  },
+  {
+    "id": 26,
+    "name": "Vestito Midi Floreale",
+    "category": "Clothing",
+    "price": 74.99,
+    "description": "Abito midi in viscosa stampata con stampa floreale, scollo a V e maniche a palloncino. Fondo svasato.",
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=600&q=80",
+    "stock": 13,
+    "rating": 4.4
+  },
+  {
+    "id": 27,
+    "name": "Shorts Tecnici 5\"",
+    "category": "Clothing",
+    "price": 34.99,
+    "description": "Shorts da running in tessuto quattro vie stretch con tasca posteriore zippata e fodera interna integrata.",
+    "image": "https://images.unsplash.com/photo-1562886877-f39faba23b24?w=600&q=80",
+    "stock": 28,
+    "rating": 4.2
+  },
+  {
+    "id": 28,
+    "name": "Cappotto Camel Oversize",
+    "category": "Clothing",
+    "price": 219.00,
+    "description": "Cappotto doppio petto in misto lana camel, taglio oversize con cintura removibile e bottoni in corno.",
+    "image": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=600&q=80",
+    "stock": 5,
+    "rating": 4.9
+  },
+  {
+    "id": 29,
+    "name": "Leggings Performance",
+    "category": "Clothing",
+    "price": 44.99,
+    "description": "Leggings a vita alta in tessuto compressivo con tecnologia a quattro vie. Tasca laterale nascosta e couture piatte.",
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=600&q=80",
+    "stock": 32,
+    "rating": 4.6
+  },
+  {
+    "id": 30,
+    "name": "Camicia Lino Relaxed",
+    "category": "Clothing",
+    "price": 49.99,
+    "description": "Camicia in lino puro con vestibilità ampia, maniche arrotolabili e colletto aperto. Ideale per l'estate.",
+    "image": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=600&q=80",
+    "stock": 22,
+    "rating": 4.3
+  },
+  {
+    "id": 31,
+    "name": "Polo Piquet Classic",
+    "category": "Clothing",
+    "price": 39.99,
+    "description": "Polo in piquet di cotone mercerizzato con colletto rinforzato e bottoni in madreperla. Fit slim.",
+    "image": "https://images.unsplash.com/photo-1625910513285-c83f0da7c9db?w=600&q=80",
+    "stock": 26,
+    "rating": 4.1
+  },
+  {
+    "id": 32,
+    "name": "Gonna Plissé Satin",
+    "category": "Clothing",
+    "price": 64.99,
+    "description": "Gonna midi plissettata in satin di viscosa con elastico in vita. Cade morbidamente, effetto luminoso.",
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=600&q=80",
+    "stock": 16,
+    "rating": 4.5
+  },
+  {
+    "id": 33,
+    "name": "Giubbotto Denim Vintage",
+    "category": "Clothing",
+    "price": 84.99,
+    "description": "Giubbotto in denim 100% cotone con lavaggio vintage, tasche con bottoni a pressione e polsini aggiustabili.",
+    "image": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=600&q=80",
+    "stock": 11,
+    "rating": 4.4
+  },
+  {
+    "id": 34,
+    "name": "Tuta Jogger Set",
+    "category": "Clothing",
+    "price": 79.99,
+    "description": "Set coordinato felpa e jogger in French Terry di cotone 300g/m². Polsini e bordi a costine.",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&q=80",
+    "stock": 19,
+    "rating": 4.6
+  },
+  {
+    "id": 35,
+    "name": "Orologio Automatico Milanese",
+    "category": "Accessories",
+    "price": 249.00,
+    "description": "Orologio con movimento automatico a 25 rubini, cassa in acciaio 316L da 40mm e cinturino mesh milanese.",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=600&q=80",
+    "stock": 4,
+    "rating": 4.9
+  },
+  {
+    "id": 36,
+    "name": "Cintura Reversibile Leather",
+    "category": "Accessories",
+    "price": 34.99,
+    "description": "Cintura reversibile nero/marrone in vera pelle con fibbia intercambiabile in metallo spazzolato. Larghezza 3.5cm.",
+    "image": "https://images.unsplash.com/photo-1553531889-e6cf4d692b1b?w=600&q=80",
+    "stock": 24,
+    "rating": 4.3
+  },
+  {
+    "id": 37,
+    "name": "Sciarpa Cashmere Blend",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Sciarpa in misto cashmere e lana (70/30), trama a spina di pesce, dimensioni 180x35cm. Ultra morbida.",
+    "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=600&q=80",
+    "stock": 17,
+    "rating": 4.7
+  },
+  {
+    "id": 38,
+    "name": "Bracciale Corda Surf",
+    "category": "Accessories",
+    "price": 12.99,
+    "description": "Bracciale intrecciato a mano in corda di cotone cerato con charm in argento sterling 925. Resistente all'acqua.",
+    "image": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=80",
+    "stock": 60,
+    "rating": 4.2
+  },
+  {
+    "id": 39,
+    "name": "Borsa Tote Canvas",
+    "category": "Accessories",
+    "price": 27.99,
+    "description": "Borsa tote in canvas 12oz con manici in cotone rinforzato e tasca interna con zip. Capacità 20L.",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&q=80",
+    "stock": 45,
+    "rating": 4.1
+  },
+  {
+    "id": 40,
+    "name": "Guanti Touch Screen",
+    "category": "Accessories",
+    "price": 22.99,
+    "description": "Guanti in lana acrilica con polpastrelli conduttivi per touchscreen. Polso elasticizzato e palmo antiscivolo.",
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=600&q=80",
+    "stock": 33,
+    "rating": 4.0
+  },
+  {
+    "id": 41,
+    "name": "Collana Choker Gold",
+    "category": "Accessories",
+    "price": 18.99,
+    "description": "Collana choker in acciaio inox con placcatura oro 18k, lunghezza regolabile da 35 a 40cm.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=80",
+    "stock": 38,
+    "rating": 4.4
+  },
+  {
+    "id": 42,
+    "name": "Marsupio Tecnico",
+    "category": "Accessories",
+    "price": 32.99,
+    "description": "Marsupio impermeabile in nylon ripstop con scomparto principale, tasche frontali e passante cintura.",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&q=80",
+    "stock": 21,
+    "rating": 4.5
+  },
+  {
+    "id": 43,
+    "name": "Beanie Lavorato a Maglia",
+    "category": "Accessories",
+    "price": 16.99,
+    "description": "Berretto invernale in lana acrilica con risvolto doppio e pompon removibile. Taglia unica adulto.",
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=600&q=80",
+    "stock": 50,
+    "rating": 4.3
+  },
+  {
+    "id": 44,
+    "name": "Portachiavi in Pelle",
+    "category": "Accessories",
+    "price": 14.99,
+    "description": "Portachiavi compatto in pelle vegetale con anello in ottone massiccio. Incisione personalizzabile.",
+    "image": "https://images.unsplash.com/photo-1609167830220-7164aa360951?w=600&q=80",
+    "stock": 55,
+    "rating": 4.2
+  },
+  {
+    "id": 45,
+    "name": "Ombrello Compatto Antivento",
+    "category": "Accessories",
+    "price": 29.99,
+    "description": "Ombrello tascabile con telaio in fibra di vetro antivento, apertura automatica e custodia inclusa.",
+    "image": "https://images.unsplash.com/photo-1520243947956-3b1c2f894c0a?w=600&q=80",
+    "stock": 28,
+    "rating": 4.1
+  },
+  {
+    "id": 46,
+    "name": "Smartphone X12 Pro",
+    "category": "Electronics",
+    "price": 899.00,
+    "description": "Smartphone con display AMOLED 6.7\", processore octa-core, tripla fotocamera 108MP e batteria 5000mAh con ricarica 65W.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80",
+    "stock": 10,
+    "rating": 4.7
+  },
+  {
+    "id": 47,
+    "name": "Laptop Ultrabook 14\"",
+    "category": "Electronics",
+    "price": 1199.00,
+    "description": "Laptop sottile 14mm con display IPS 2K, processore i7 di ultima generazione, 16GB RAM e SSD NVMe 512GB.",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&q=80",
+    "stock": 6,
+    "rating": 4.8
+  },
+  {
+    "id": 48,
+    "name": "Tablet 10\" Creative",
+    "category": "Electronics",
+    "price": 349.00,
+    "description": "Tablet con display 2K da 10.4\", pennino incluso, 6GB RAM e supporto per tastiera magnetica. Ideale per creativi.",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&q=80",
+    "stock": 8,
+    "rating": 4.5
+  },
+  {
+    "id": 49,
+    "name": "Auricolari TWS Pro",
+    "category": "Electronics",
+    "price": 89.99,
+    "description": "Auricolari true wireless con driver da 12mm, ANC ibrido, resistenza IPX5 e autonomia totale di 32h con case.",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&q=80",
+    "stock": 15,
+    "rating": 4.6
+  },
+  {
+    "id": 50,
+    "name": "Speaker Portatile 360°",
+    "category": "Electronics",
+    "price": 79.99,
+    "description": "Altoparlante Bluetooth 5.0 impermeabile IP67, suono omnidirezionale, 24h di autonomia e ricarica USB-C.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&q=80",
+    "stock": 12,
+    "rating": 4.7
+  },
+  {
+    "id": 51,
+    "name": "Fotocamera Mirrorless APS-C",
+    "category": "Electronics",
+    "price": 749.00,
+    "description": "Fotocamera mirrorless con sensore APS-C 24MP, stabilizzazione ottica 5 assi, video 4K60fps e Wi-Fi integrato.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80",
+    "stock": 5,
+    "rating": 4.9
+  },
+  {
+    "id": 52,
+    "name": "Tastiera Meccanica Wireless",
+    "category": "Electronics",
+    "price": 119.00,
+    "description": "Tastiera meccanica tenkeyless con switch ottici lineari, retroilluminazione RGB e connettività tripla (BT/2.4G/USB).",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+    "stock": 9,
+    "rating": 4.6
+  },
+  {
+    "id": 53,
+    "name": "Mouse Ergonomico Pro",
+    "category": "Electronics",
+    "price": 59.99,
+    "description": "Mouse verticale ergonomico con sensore ottico 4000 DPI, 6 tasti programmabili e design che riduce la tensione al polso.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=600&q=80",
+    "stock": 20,
+    "rating": 4.4
+  },
+  {
+    "id": 54,
+    "name": "Monitor 27\" 4K IPS",
+    "category": "Electronics",
+    "price": 449.00,
+    "description": "Monitor 4K UHD con pannello IPS, copertura 99% sRGB, USB-C 65W e supporto ergonomico con rotazione e inclinazione.",
+    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=600&q=80",
+    "stock": 4,
+    "rating": 4.8
+  },
+  {
+    "id": 55,
+    "name": "Power Bank 20000mAh",
+    "category": "Electronics",
+    "price": 44.99,
+    "description": "Batteria esterna con ricarica rapida 22.5W, doppia uscita USB-A e USB-C, display LED della carica residua.",
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600&q=80",
+    "stock": 35,
+    "rating": 4.5
+  },
+  {
+    "id": 56,
+    "name": "Router Wi-Fi 6 Mesh",
+    "category": "Electronics",
+    "price": 189.00,
+    "description": "Router Wi-Fi 6 AX3000 con sistema mesh espandibile, 4 antenne esterne e copertura fino a 250mq.",
+    "image": "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?w=600&q=80",
+    "stock": 7,
+    "rating": 4.7
+  },
+  {
+    "id": 57,
+    "name": "Drone Compact 4K",
+    "category": "Electronics",
+    "price": 399.00,
+    "description": "Mini drone pieghevole con fotocamera 4K stabilizzata, autonomia 30 minuti e raggio operativo 5km.",
+    "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600&q=80",
+    "stock": 3,
+    "rating": 4.8
+  },
+  {
+    "id": 58,
+    "name": "E-Reader 6\" Paperwhite",
+    "category": "Electronics",
+    "price": 129.00,
+    "description": "E-reader con display E-Ink da 300 ppi, retroilluminazione regolabile, impermeabile IPX8 e autonomia 10 settimane.",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&q=80",
+    "stock": 11,
+    "rating": 4.9
+  },
+  {
+    "id": 59,
+    "name": "Cavo USB-C Intrecciato 2m",
+    "category": "Electronics",
+    "price": 12.99,
+    "description": "Cavo USB-C to USB-C in nylon intrecciato con ricarica rapida 100W e trasferimento dati USB 3.2 Gen2.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    "stock": 100,
+    "rating": 4.3
+  },
+  {
+    "id": 60,
+    "name": "Lampada LED Scrivania",
+    "category": "Home & Living",
+    "price": 39.99,
+    "description": "Lampada da scrivania con tecnologia LED dimmerabile, 5 temperature di colore, porta USB-A integrata e braccio flessibile.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&q=80",
+    "stock": 18,
+    "rating": 4.5
+  },
+  {
+    "id": 61,
+    "name": "Cuscino Decorativo Velvet",
+    "category": "Home & Living",
+    "price": 22.99,
+    "description": "Cuscino in velluto 45x45cm con imbottitura in fibra siliconata anallergica. Retro in cotone lavabile.",
+    "image": "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=600&q=80",
+    "stock": 40,
+    "rating": 4.2
+  },
+  {
+    "id": 62,
+    "name": "Candela Profumata Soia",
+    "category": "Home & Living",
+    "price": 19.99,
+    "description": "Candela in cera di soia naturale con stoppino in cotone, profumo bergamotto e cedro bianco. Durata 50h.",
+    "image": "https://images.unsplash.com/photo-1602607144496-4f99ba1a7216?w=600&q=80",
+    "stock": 55,
+    "rating": 4.7
+  },
+  {
+    "id": 63,
+    "name": "Set Asciugamani Bambù",
+    "category": "Home & Living",
+    "price": 34.99,
+    "description": "Set 4 asciugamani in fibra di bambù 600g/m² (2 viso + 2 doccia). Ultra morbidi, antibatterici e asciugatura rapida.",
+    "image": "https://images.unsplash.com/photo-1583845112203-29329902332e?w=600&q=80",
+    "stock": 22,
+    "rating": 4.6
+  },
+  {
+    "id": 64,
+    "name": "Portapiante in Ceramica",
+    "category": "Home & Living",
+    "price": 17.99,
+    "description": "Vaso in ceramica smaltata con foro di drenaggio e sottovaso incluso. Diametro 14cm. Finish opaco texture.",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=600&q=80",
+    "stock": 35,
+    "rating": 4.3
+  },
+  {
+    "id": 65,
+    "name": "Tappeto Berbero Handmade",
+    "category": "Home & Living",
+    "price": 149.00,
+    "description": "Tappeto in lana 100% lavorato a mano con pattern geometrico berbero. Dimensioni 160x230cm. Antiscivolo.",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80",
+    "stock": 3,
+    "rating": 4.9
+  },
+  {
+    "id": 66,
+    "name": "Diffusore Aromi Ultrasonico",
+    "category": "Home & Living",
+    "price": 32.99,
+    "description": "Diffusore per oli essenziali con nebulizzatore ultrasonico, luce notturna LED RGB e timer programmabile.",
+    "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?w=600&q=80",
+    "stock": 16,
+    "rating": 4.4
+  },
+  {
+    "id": 67,
+    "name": "Cornice Foto Gallery Set",
+    "category": "Home & Living",
+    "price": 27.99,
+    "description": "Set 6 cornici in legno di pino verniciato bianco, formati assortiti da 10x15 a 20x25cm. Effetto galleria.",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=600&q=80",
+    "stock": 24,
+    "rating": 4.2
+  },
+  {
+    "id": 68,
+    "name": "Coperta Sherpa Oversize",
+    "category": "Home & Living",
+    "price": 49.99,
+    "description": "Coperta 200x220cm in pile sherpa double face con bordi cuciti a punto piatto. Lavabile in lavatrice a 30°.",
+    "image": "https://images.unsplash.com/photo-1564330045700-0bbcf3b8c93c?w=600&q=80",
+    "stock": 14,
+    "rating": 4.8
+  },
+  {
+    "id": 69,
+    "name": "Sveglia Analogica Retrò",
+    "category": "Home & Living",
+    "price": 24.99,
+    "description": "Sveglia da comodino in metallo cromato con display analogico retroilluminato e suono campanella doppia.",
+    "image": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=600&q=80",
+    "stock": 19,
+    "rating": 4.1
+  },
+  {
+    "id": 70,
+    "name": "Set Posate Acciaio 24pz",
+    "category": "Home & Living",
+    "price": 44.99,
+    "description": "Set 24 posate in acciaio inox 18/10 lucidato a specchio. Include cucchiai, forchette, coltelli e cucchiaini per 6 persone.",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80",
+    "stock": 12,
+    "rating": 4.5
+  },
+  {
+    "id": 71,
+    "name": "Yoga Mat Premium 6mm",
+    "category": "Sports & Fitness",
+    "price": 54.99,
+    "description": "Tappetino yoga in gomma naturale con superficie antiscivolo a doppio strato, dimensioni 183x61cm e borsa di trasporto.",
+    "image": "https://images.unsplash.com/photo-1601925228269-a7c0df66af27?w=600&q=80",
+    "stock": 20,
+    "rating": 4.7
+  },
+  {
+    "id": 72,
+    "name": "Set Manubri Regolabili",
+    "category": "Sports & Fitness",
+    "price": 89.99,
+    "description": "Coppia di manubri regolabili da 2 a 24kg con sistema a disco rapido. Sostituzione peso in 3 secondi.",
+    "image": "https://images.unsplash.com/photo-1544033527-b192daee1f5b?w=600&q=80",
+    "stock": 8,
+    "rating": 4.8
+  },
+  {
+    "id": 73,
+    "name": "Fascia Elastica Resistance",
+    "category": "Sports & Fitness",
+    "price": 19.99,
+    "description": "Set 5 fasce elastiche in lattice naturale con livelli di resistenza progressivi da 5 a 25kg. Inclusa borsa.",
+    "image": "https://images.unsplash.com/photo-1598289431512-b97b0917afec?w=600&q=80",
+    "stock": 45,
+    "rating": 4.4
+  },
+  {
+    "id": 74,
+    "name": "Corda da Salto Speed",
+    "category": "Sports & Fitness",
+    "price": 14.99,
+    "description": "Corda da salto in acciaio rivestito con cuscinetti a sfera e manici ergonomici in alluminio. Lunghezza regolabile.",
+    "image": "https://images.unsplash.com/photo-1598971861713-54ad16a7e72e?w=600&q=80",
+    "stock": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 75,
+    "name": "Kettlebell 16kg",
+    "category": "Sports & Fitness",
+    "price": 39.99,
+    "description": "Kettlebell in ghisa verniciata con base piatta antiscivolo e impugnatura sabbiata per una presa sicura.",
+    "image": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?w=600&q=80",
+    "stock": 10,
+    "rating": 4.6
+  },
+  {
+    "id": 76,
+    "name": "Foam Roller Massaggio",
+    "category": "Sports & Fitness",
+    "price": 24.99,
+    "description": "Rullo in schiuma EVA ad alta densità con superficie texturizzata per il rilascio miofasciale. 30x15cm.",
+    "image": "https://images.unsplash.com/photo-1562088287-bde35a1ea917?w=600&q=80",
+    "stock": 30,
+    "rating": 4.5
+  },
+  {
+    "id": 77,
+    "name": "Borraccia Sport 750ml",
+    "category": "Sports & Fitness",
+    "price": 18.99,
+    "description": "Borraccia in Tritan BPA-free con bocchino a scatto e scale di misurazione. Lavabile in lavastoviglie.",
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=600&q=80",
+    "stock": 50,
+    "rating": 4.2
+  },
+  {
+    "id": 78,
+    "name": "Guantoni da Boxe Pro",
+    "category": "Sports & Fitness",
+    "price": 59.99,
+    "description": "Guantoni in vera pelle con imbottitura in schiuma multi-strato e chiusura velcro rinforzata. 12oz.",
+    "image": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?w=600&q=80",
+    "stock": 14,
+    "rating": 4.7
+  },
+  {
+    "id": 79,
+    "name": "Tapis Roulant Pieghevole",
+    "category": "Sports & Fitness",
+    "price": 599.00,
+    "description": "Tapis roulant pieghevole con piano di corsa 120x40cm, velocità 0.8-14km/h, 12 programmi e display LED.",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+    "stock": 3,
+    "rating": 4.5
+  },
+  {
+    "id": 80,
+    "name": "Zaino da Trail Running",
+    "category": "Sports & Fitness",
+    "price": 74.99,
+    "description": "Zaino da corsa 10L con tasca idro compatibile 1.5L, bretelle elastiche e fischietto di emergenza integrato.",
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&q=80",
+    "stock": 12,
+    "rating": 4.6
+  },
+  {
+    "id": 81,
+    "name": "Siero Vitamina C 30ml",
+    "category": "Beauty & Care",
+    "price": 34.99,
+    "description": "Siero illuminante con vitamina C stabilizzata al 15%, acido ialuronico e niacinamide. Texture leggera non unta.",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600&q=80",
+    "stock": 28,
+    "rating": 4.7
+  },
+  {
+    "id": 82,
+    "name": "Crema Viso SPF 50+",
+    "category": "Beauty & Care",
+    "price": 28.99,
+    "description": "Crema solare minerale viso SPF50+ con filtri fisici zinco/titanio, tono universale e finish matte. 50ml.",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=600&q=80",
+    "stock": 35,
+    "rating": 4.6
+  },
+  {
+    "id": 83,
+    "name": "Balsamo Labbra Set 5pz",
+    "category": "Beauty & Care",
+    "price": 14.99,
+    "description": "Set 5 balsami labbra in cera d'api e burro di karitè, gusti assortiti, SPF 15. Tubo da 4.5g cadauno.",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&q=80",
+    "stock": 70,
+    "rating": 4.3
+  },
+  {
+    "id": 84,
+    "name": "Olio Corpo Rose Hip",
+    "category": "Beauty & Care",
+    "price": 22.99,
+    "description": "Olio di rosa canina puro pressato a freddo, ricco di omega 6 e 9. Antiossidante naturale per pelle secca. 50ml.",
+    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&q=80",
+    "stock": 22,
+    "rating": 4.8
+  },
+  {
+    "id": 85,
+    "name": "Spazzola Capelli Bambù",
+    "category": "Beauty & Care",
+    "price": 16.99,
+    "description": "Spazzola con manico in bambù certificato FSC e setole miste cinghiale/nylon. Anti-static, districante.",
+    "image": "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?w=600&q=80",
+    "stock": 40,
+    "rating": 4.2
+  },
+  {
+    "id": 86,
+    "name": "Profumo Woody 100ml",
+    "category": "Beauty & Care",
+    "price": 79.99,
+    "description": "Eau de parfum con note di testa bergamotto e cardamomo, cuore di cedro e sandalo, fondo muschio e ambra. 100ml.",
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=600&q=80",
+    "stock": 15,
+    "rating": 4.7
+  },
+  {
+    "id": 87,
+    "name": "Rasoio Safety Razor",
+    "category": "Beauty & Care",
+    "price": 34.99,
+    "description": "Rasoio di sicurezza in ottone pesante con testa regolabile a 5 posizioni. Include 20 lamette di ricambio.",
+    "image": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=600&q=80",
+    "stock": 20,
+    "rating": 4.9
+  },
+  {
+    "id": 88,
+    "name": "Palette Ombretti Nude",
+    "category": "Beauty & Care",
+    "price": 42.99,
+    "description": "Palette 18 tonalità nei toni del nudo, mix di finish matte, shimmer e glitter. Altamente pigmentata.",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=600&q=80",
+    "stock": 18,
+    "rating": 4.5
+  },
+  {
+    "id": 89,
+    "name": "Notebook Dotgrid A5",
+    "category": "Stationery",
+    "price": 16.99,
+    "description": "Taccuino A5 con copertina rigida in finta pelle, 192 pagine puntinate 90g/m², carta crema, ribbon segnalibro.",
+    "image": "https://images.unsplash.com/photo-1531346680769-a1d79b57de5c?w=600&q=80",
+    "stock": 60,
+    "rating": 4.6
+  },
+  {
+    "id": 90,
+    "name": "Set Penne Fineliner 0.4",
+    "category": "Stationery",
+    "price": 12.99,
+    "description": "Set 12 fineliner con inchiostro resistente all'acqua in colori assortiti. Punta 0.4mm di precisione.",
+    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=600&q=80",
+    "stock": 80,
+    "rating": 4.4
+  },
+  {
+    "id": 91,
+    "name": "Planner Settimanale 2025",
+    "category": "Stationery",
+    "price": 21.99,
+    "description": "Planner undated con layout settimanale, sezioni habit tracker, obiettivi mensili e note libere. Spirale metallica.",
+    "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=600&q=80",
+    "stock": 45,
+    "rating": 4.5
+  },
+  {
+    "id": 92,
+    "name": "Matite HB Set Professionale",
+    "category": "Stationery",
+    "price": 9.99,
+    "description": "Set 20 matite grafite assortite da 2H a 8B, legno di cedro certificato, incluso temperamatite e gomma.",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&q=80",
+    "stock": 100,
+    "rating": 4.3
+  },
+  {
+    "id": 93,
+    "name": "Desk Organizer Legno",
+    "category": "Stationery",
+    "price": 29.99,
+    "description": "Organizer da scrivania in noce americano con 5 scomparti, portapenne centrale e vassoio portaoggetti.",
+    "image": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=600&q=80",
+    "stock": 17,
+    "rating": 4.7
+  },
+  {
+    "id": 94,
+    "name": "Adesivi Washi Tape Set",
+    "category": "Stationery",
+    "price": 11.99,
+    "description": "Set 10 washi tape in pattern botanici e geometrici, larghezza 15mm. Riposizionabili e scrivibili.",
+    "image": "https://images.unsplash.com/photo-1589118949245-7d38baf380d6?w=600&q=80",
+    "stock": 90,
+    "rating": 4.2
+  },
+  {
+    "id": 95,
+    "name": "Libro: Clean Code",
+    "category": "Books",
+    "price": 32.99,
+    "description": "Il classico di Robert C. Martin su come scrivere codice pulito, leggibile e manutenibile. Edizione italiana.",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=600&q=80",
+    "stock": 25,
+    "rating": 4.9
+  },
+  {
+    "id": 96,
+    "name": "Libro: Atomic Habits",
+    "category": "Books",
+    "price": 17.99,
+    "description": "James Clear spiega come le piccole abitudini quotidiane portano a risultati straordinari. Bestseller mondiale.",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&q=80",
+    "stock": 40,
+    "rating": 4.8
+  },
+  {
+    "id": 97,
+    "name": "Libro: Deep Work",
+    "category": "Books",
+    "price": 15.99,
+    "description": "Cal Newport esplora come la concentrazione profonda sia la skill più preziosa nell'economia moderna.",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&q=80",
+    "stock": 30,
+    "rating": 4.7
+  },
+  {
+    "id": 98,
+    "name": "Moka Bialetti 3 Tazze",
+    "category": "Home & Living",
+    "price": 24.99,
+    "description": "Classica caffettiera moka in alluminio da 3 tazze. Valvola di sicurezza, manico ergonomico, made in Italy.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+    "stock": 28,
+    "rating": 4.8
+  },
+  {
+    "id": 99,
+    "name": "Coltello Chef 20cm",
+    "category": "Home & Living",
+    "price": 69.99,
+    "description": "Coltello da chef in acciaio tedesco X50CrMoV15 con lama da 20cm e manico in pakkawood. Bilanciato perfettamente.",
+    "image": "https://images.unsplash.com/photo-1566454825481-9c31b1d66b4e?w=600&q=80",
+    "stock": 10,
+    "rating": 4.9
+  },
+  {
+    "id": 100,
+    "name": "Puzzle 1000 Pezzi Panorama",
+    "category": "Home & Living",
+    "price": 19.99,
+    "description": "Puzzle 1000 pezzi con immagine panoramica di paesaggio montano, pezzi in cartone 1.9mm con taglio di precisione.",
+    "image": "https://images.unsplash.com/photo-1605106702734-205df224ecce?w=600&q=80",
+    "stock": 20,
+    "rating": 4.4
+  },
+  {
+    "id": 101,
+    "name": "Sneakers Platform 90s",
+    "category": "Footwear",
+    "price": 94.99,
+    "description": "Sneakers con suola platform da 5cm, tomaia in pelle sintetica con inserti in mesh e lacci a contrasto.",
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=600&q=80",
+    "stock": 13,
+    "rating": 4.3
+  },
+  {
+    "id": 102,
+    "name": "Giacca in Pelle Biker",
+    "category": "Clothing",
+    "price": 249.00,
+    "description": "Giacca biker in vera pelle bovina con zip diagonale, spalline e fibbie metalliche. Fodera in seta.",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600&q=80",
+    "stock": 5,
+    "rating": 4.8
+  },
+  {
+    "id": 103,
+    "name": "Cuffie da Studio Monitor",
+    "category": "Electronics",
+    "price": 159.00,
+    "description": "Cuffie da studio over-ear a risposta piatta 20Hz-20kHz, impedenza 32Ω, cavo scollegabile e adattatore 6.3mm.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&q=80",
+    "stock": 7,
+    "rating": 4.7
+  },
+  {
+    "id": 104,
+    "name": "Tappeto da Ginnastica 10mm",
+    "category": "Sports & Fitness",
+    "price": 44.99,
+    "description": "Tappeto pieghevole in PVC espanso 10mm con superficie antiscivolo bicolore. 180x60cm. Per pilates e stretching.",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&q=80",
+    "stock": 25,
+    "rating": 4.4
+  },
+  {
+    "id": 105,
+    "name": "Zainetto Mini Pelle",
+    "category": "Accessories",
+    "price": 69.99,
+    "description": "Mini zaino in vera pelle con tracolla regolabile, tasca frontale zippata e finitura anticata. 8L di capacità.",
+    "image": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?w=600&q=80",
+    "stock": 9,
+    "rating": 4.6
+  },
+  {
+    "id": 106,
+    "name": "Crema Idratante Corpo",
+    "category": "Beauty & Care",
+    "price": 18.99,
+    "description": "Crema corpo in burro di karitè e olio di jojoba, texture ricca non unta, profumo di vaniglia. 250ml.",
+    "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=600&q=80",
+    "stock": 42,
+    "rating": 4.5
+  },
+  {
+    "id": 107,
+    "name": "Stampa Artistica 50x70",
+    "category": "Home & Living",
+    "price": 29.99,
+    "description": "Stampa giclée su carta 250g/m² con cornice in pino naturale. Soggetti botanici in stile vintage.",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600&q=80",
+    "stock": 15,
+    "rating": 4.6
+  },
+  {
+    "id": 108,
+    "name": "Giacca Tecnica Sci",
+    "category": "Clothing",
+    "price": 289.00,
+    "description": "Giacca da sci impermeabile 20.000mm, traspirante 15.000g, imbottitura in Primaloft 200g. Attacco a pantaloni.",
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&q=80",
+    "stock": 4,
+    "rating": 4.9
+  },
+  {
+    "id": 109,
+    "name": "SSD Esterno 1TB",
+    "category": "Electronics",
+    "price": 99.99,
+    "description": "SSD portatile con velocità lettura 1050MB/s, connettore USB-C, resistente agli urti e all'acqua IP55.",
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&q=80",
+    "stock": 11,
+    "rating": 4.8
+  },
+  {
+    "id": 110,
+    "name": "Colino da Tè in Acciaio",
+    "category": "Home & Living",
+    "price": 9.99,
+    "description": "Colino a rete fine con manico lungo in acciaio inox 304. Diametro 7cm, lavastoviglie. Include poggia colino.",
+    "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=600&q=80",
+    "stock": 65,
+    "rating": 4.2
+  },
+  {
+    "id": 111,
+    "name": "Libro: The Design of Everyday Things",
+    "category": "Books",
+    "price": 22.99,
+    "description": "Don Norman rivoluziona il modo di pensare al design partendo dagli oggetti quotidiani. Lettura fondamentale.",
+    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&q=80",
+    "stock": 20,
+    "rating": 4.8
+  },
+  {
+    "id": 112,
+    "name": "Porta Notebook in Feltro",
+    "category": "Accessories",
+    "price": 24.99,
+    "description": "Sleeve per notebook 13/14\" in feltro di lana riciclata con chiusura magnetica e tasca interna per accessori.",
+    "image": "https://images.unsplash.com/photo-1585241920473-b472eb9ffbae?w=600&q=80",
+    "stock": 18,
+    "rating": 4.5
   }
 ]
