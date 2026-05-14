@@ -1,19 +1,26 @@
-# Kreas Products API — Mock Data
+# Mock Store API
 
-Questo repository contiene il file JSON da usare come sorgente dati per il progetto e-commerce Vue.js.
+A simple static JSON dataset simulating a product catalog for a small e-commerce store.
+Designed for front-end exercises and prototyping — no backend required.
 
-## Come usare il JSON
+## Endpoint
 
-Nella tua applicazione Vue.js, usa il percorso raw di GitHub per recuperare i dati:
-
-```js
-const res = await fetch(
-  'https://raw.githubusercontent.com/Anita-Liberatore/kreas-products-api/main/products.json'
-)
-const products = await res.json()
+```
+GET https://raw.githubusercontent.com/Anita-Liberatore/mock-store-api/master/products.json
 ```
 
-## Struttura di un prodotto
+Works from any HTTP client (Postman, browser, `fetch`, `axios`, etc.) with no authentication.
+
+## Usage example
+
+```js
+const response = await fetch(
+  'https://raw.githubusercontent.com/Anita-Liberatore/mock-store-api/master/products.json'
+)
+const products = await response.json()
+```
+
+## Product schema
 
 ```json
 {
@@ -21,28 +28,30 @@ const products = await res.json()
   "name": "Sneakers Urban Pro",
   "category": "Footwear",
   "price": 89.99,
-  "description": "...",
-  "image": "https://...",
+  "description": "Lightweight urban sneakers with rubber sole and breathable mesh upper.",
+  "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
   "stock": 12,
   "rating": 4.5
 }
 ```
 
-| Campo | Tipo | Descrizione |
+| Field | Type | Description |
 |-------|------|-------------|
-| `id` | number | Identificativo univoco |
-| `name` | string | Nome del prodotto |
-| `category` | string | Categoria (`Footwear`, `Clothing`, `Accessories`, `Electronics`) |
-| `price` | number | Prezzo in euro |
-| `description` | string | Descrizione breve del prodotto |
-| `image` | string | URL immagine (Unsplash, 600px) |
-| `stock` | number | Quantità disponibile |
-| `rating` | number | Valutazione media (1–5) |
+| `id` | number | Unique identifier |
+| `name` | string | Product name |
+| `category` | string | One of: `Footwear`, `Clothing`, `Accessories`, `Electronics` |
+| `price` | number | Price in EUR |
+| `description` | string | Short product description |
+| `image` | string | Unsplash image URL (600px wide) |
+| `stock` | number | Units available |
+| `rating` | number | Average rating (1–5) |
 
-## Prodotti inclusi (12 totali)
+## Dataset
 
-| # | Nome | Categoria | Prezzo |
-|---|------|-----------|--------|
+12 products across 4 categories:
+
+| # | Name | Category | Price |
+|---|------|----------|-------|
 | 1 | Sneakers Urban Pro | Footwear | €89.99 |
 | 2 | Zaino Explorer 30L | Accessories | €59.99 |
 | 3 | Felpa Oversize Minimal | Clothing | €44.99 |
@@ -55,12 +64,3 @@ const products = await res.json()
 | 10 | Smartwatch Fitness X1 | Electronics | €199.00 |
 | 11 | Cap Logo Ricamato | Accessories | €19.99 |
 | 12 | Calzini Merino Sport | Clothing | €14.99 |
-
-## Regola sconto
-
-> Se il cliente acquista **più di 3 prodotti**, applica uno sconto del **10%** sul totale del carrello.
-
-```js
-const discount = cartItems.length > 3 ? total * 0.10 : 0
-const finalTotal = total - discount
-```
